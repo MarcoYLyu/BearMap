@@ -1,2 +1,2 @@
 # BearMap
-CS 61BL
+BEAR MAP: CS 61BL
